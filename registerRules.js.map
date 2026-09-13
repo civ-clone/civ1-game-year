@@ -1,1 +1,1 @@
-{"version":3,"file":"registerRules.js","sourceRoot":"","sources":["registerRules.ts"],"names":[],"mappings":";;AAAA,oEAAqF;AACrF,4CAAyC;AAEzC,uBAAoB,CAAC,QAAQ,CAAC,GAAG,cAAQ,EAAE,CAAC,CAAC"}
+{"version":3,"file":"registerRules.js","sourceRoot":"","sources":["registerRules.ts"],"names":[],"mappings":";;;AAAA,4CAAyC;AACzC,oDAAyD;AAElD,MAAM,QAAQ,GAAG,CAAC,IAAU,EAAQ,EAAE,CAC3C,IAAI,CAAC,KAAK,CAAC,QAAQ,CACjB,GAAG,IAAA,cAAQ,GAAE,CACd,CAAC;AAHS,QAAA,QAAQ,YAGjB;AAEJ,+EAA+E;AAC/E,6EAA6E;AAC7E,0CAA0C;AAC1C,IAAA,gBAAQ,EAAC,uBAAW,CAAC,CAAC;AAEtB,kBAAe,gBAAQ,CAAA"}
