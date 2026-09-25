@@ -10,21 +10,21 @@ export const getRules: () => Year[] = (): Year[] => [
   new Year(
     new Criterion((turn: number): boolean => turn > 251),
     new Criterion((turn: number): boolean => turn < 302),
-    new Effect((turn: number): number => (turn - 151) * 10 + 1000)
+    new Effect((turn: number): number => (turn - 251) * 10 + 1000)
   ),
   new Year(
     new Criterion((turn: number): boolean => turn > 301),
     new Criterion((turn: number): boolean => turn < 352),
-    new Effect((turn: number): number => (turn - 201) * 5 + 1500)
+    new Effect((turn: number): number => (turn - 301) * 5 + 1500)
   ),
   new Year(
     new Criterion((turn: number): boolean => turn > 351),
     new Criterion((turn: number): boolean => turn < 402),
-    new Effect((turn: number): number => (turn - 251) * 2 + 1750)
+    new Effect((turn: number): number => (turn - 351) * 2 + 1750)
   ),
   new Year(
     new Criterion((turn: number): boolean => turn > 401),
-    new Effect((turn: number): number => turn - 301 + 1850)
+    new Effect((turn: number): number => turn - 401 + 1850)
   ),
 ];
 
